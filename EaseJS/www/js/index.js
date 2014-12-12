@@ -16,10 +16,26 @@
  * specific language governing permissions and limitations
  * under the License.
  */
+var menuOpen = false;
+var menuDiv;
+
 document.addEventListener("deviceready", onDeviceReady, false);
 
 function onDeviceReady() {
     navigator.splashscreen.hide();
+    menuDiv = document.getElementById("menu");
+    document.addEventListener("menubutton", onMenu, false);
+}
+
+function onMenu() {
+    if(menuOpen) {
+        menuDiv.style.display = "none";
+        menuOpen = false;
+    }
+    else {
+        menuDiv.style.display = "block";
+        menuOpen = true;
+    }
 }
 
 window.onload = function() {
