@@ -16,6 +16,12 @@
  * specific language governing permissions and limitations
  * under the License.
  */
+document.addEventListener("deviceready", onDeviceReady, false);
+
+function onDeviceReady() {
+    navigator.splashscreen.hide();
+}
+
 window.onload = function() {
 
     console.log("ready");

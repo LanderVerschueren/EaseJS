@@ -6,4 +6,5 @@ C:\Android\apps\EaseJS\platforms\android\ant-build\classes\com\example\app\R$dra
 C:\Android\apps\EaseJS\platforms\android\ant-build\classes\com\example\app\R$string.class \
 C:\Android\apps\EaseJS\platforms\android\ant-build\classes\com\example\app\R$xml.class \
 C:\Android\apps\EaseJS\platforms\android\ant-build\classes\com\example\app\R.class \
+C:\Android\apps\EaseJS\platforms\android\ant-build\classes\org\apache\cordova\splashscreen\SplashScreen.class \
 C:\Android\apps\EaseJS\platforms\android\ant-build\dexedLibs\classes-03df906d354177592ec60ba1ec848182.jar \

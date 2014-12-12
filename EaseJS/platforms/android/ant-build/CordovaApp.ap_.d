@@ -32,10 +32,17 @@ C:\Android\apps\EaseJS\platforms\android\assets\_where-is-www.txt \
 C:\Android\apps\EaseJS\platforms\android\assets\www\cordova.js \
 C:\Android\apps\EaseJS\platforms\android\assets\www\cordova_plugins.js \
 C:\Android\apps\EaseJS\platforms\android\assets\www\css \
+C:\Android\apps\EaseJS\platforms\android\assets\www\fonts \
 C:\Android\apps\EaseJS\platforms\android\assets\www\img \
 C:\Android\apps\EaseJS\platforms\android\assets\www\index.html \
 C:\Android\apps\EaseJS\platforms\android\assets\www\js \
+C:\Android\apps\EaseJS\platforms\android\assets\www\plugins \
 C:\Android\apps\EaseJS\platforms\android\assets\www\css\index.css \
+C:\Android\apps\EaseJS\platforms\android\assets\www\fonts\BIG JOHN.otf \
+C:\Android\apps\EaseJS\platforms\android\assets\www\fonts\Slim Joe.otf \
 C:\Android\apps\EaseJS\platforms\android\assets\www\img\logo.png \
 C:\Android\apps\EaseJS\platforms\android\assets\www\js\index.js \
+C:\Android\apps\EaseJS\platforms\android\assets\www\plugins\org.apache.cordova.splashscreen \
+C:\Android\apps\EaseJS\platforms\android\assets\www\plugins\org.apache.cordova.splashscreen\www \
+C:\Android\apps\EaseJS\platforms\android\assets\www\plugins\org.apache.cordova.splashscreen\www\splashscreen.js \
 C:\Android\apps\EaseJS\platforms\android\ant-build\AndroidManifest.xml \
