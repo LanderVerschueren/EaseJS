@@ -40,11 +40,11 @@ main {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 90vh;
+    height: 80vh;
 }
 
 #bottom {
-    height: 10vh;
+    height: 20vh;
 }
 
 #lblTeller {
@@ -53,8 +53,8 @@ main {
 }
 
 #btnReset {
-    font-size: 100%;
+    font-size: 150%;
     font-family: big_john;
     width: 100%;
-    height: 10vh;
+    height: 20vh;
 }
